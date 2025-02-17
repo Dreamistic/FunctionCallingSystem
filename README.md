@@ -1,9 +1,5 @@
 # Function Calling Is All you need
 
-作者:Dreamistic
-
-日期:2025/2/17
-
 ## Intro
 
 你还在为LLM只能依靠自身信息回复你吗？你还在为...省略1w种方式，今天，在下向您推出并非全新的FC功能，让您的AI也能实现实时联网，删改记忆，发送邮件，操控家里的电子设备！
